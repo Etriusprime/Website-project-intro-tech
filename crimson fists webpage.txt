@@ -73,7 +73,7 @@ Helbrecht's strategic mind and inspirational presence have made him a respected 
 
   </p>
 
-<a href="index.html">homepage</a>
+<li><a href="index.html">homepage</a><li>
   <footer>
         <p class="para_outline">Created by [Kevin Rivera] &copy; 2024</p>
     </footer>
