@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>The VII Legion</title>
+        <link rel="stylesheet" href="styles.css">
+
+<style>
+.post_cent
+	{
+	position:center;
+	width:30%;
+	left:10%;
+	top:90%;
+	}
+.para_outline{
+color:#e6b800;
+font-weight:light;
+font-size:30px;
+-webkit-text-stroke:.6px black
+}
+</style>
+<img class="post_cent" src="crimson fist battle.jpg">
+</head>
+    <body>
+<h1 class="para_outline"> Defiant Protectors </h1>
+
+<p class="para_outline"> Founded during the Great Crusade, they are known for their unwavering courage and determination in the face of overwhelming odds.
+The Crimson Fists engage in various campaigns against the enemies of the Imperium, including Chaos, Orks, Tyranids, and other hostile factions. 
+Their dedication to protecting humanity and their fierce combat abilities make them a prominent force in the ongoing struggles within the galaxy
+
+</p>
+  
+<header>
+<style type="text/css">
+	.img_deg
+	{
+	float:right;
+	width:60%;
+	padding: 15px;
+	}
+	.img_sig
+	{
+	float:right;
+	width:35%;
+	padding: 15px;
+	}
+	.pos_cen
+	{
+	position:relative;
+	width:75%;
+	left:10%;
+	top:90%;
+	}
+
+</style>
+<h2 class="para_outline">X Legion</h2>
+</header>
+  
+	<div class="pos_cen">
+	<img class="img_deg" src="crimson fist battle 2.webp"> 
+	<img class="img_sig" src="pedro kantor 2.jpg">
+
+            <p class="para_outline"> Notable characters of the legion are the Emperor's Champion and the current Chapter Master Helbrecht.
+The Emperor's Champion is  prestigious and plays a significant role within the Black Templars Chapter. This warrior is chosen to serve as the embodiment of the Chapter's oath of vengeance and faith, often appointed during the course of a Crusade.
+A champion can only be chosen by the will of the Emperor often times through dreams or visions. Once a champion is chosen that warrior adorns himself
+with the armour of faith and a two-handed power sword known as the Black sword. Their sole purpose is to go out into the battlefield and challenge the enemey champions
+into single combat. The Emperor's champion is blessed with strength and skill that allows to take down fromidable opponent
+The champion symbolizes the Black Templars' zealous nature, serving as both a champion of battle and a beacon of the Chapter's righteous zeal.
+Helbrecht is the current high marshel (chapter master or leader) of the black Templars. He  is renowned for his exceptional combat skills and is the greatest naval commander
+of all space marines. Under his command, the Black Templars have participated in numerous Crusades such as the Third War for Armageddon and the Indomitus crusade , showcasing their commitment to the Imperium.
+Helbrecht's strategic mind and inspirational presence have made him a respected leader among the Astartes and a feared opponent to those who stand against the Imperium. 
+
+  </p>
+
+<a href="restart test.html">homepage</a>
+  <footer>
+        <p class="para_outline">Created by [Kevin Rivera] &copy; 2024</p>
+    </footer>
+</body>
+</html>

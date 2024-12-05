@@ -1,0 +1,65 @@
+
+body {
+    text-align: center;
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+body {
+  background-image: url('phalanx 3.jpg');
+  background-repeat: no-repeat;
+ background-attachment: fixed;
+  background-size: cover
+}
+
+ box-sizing: border-box;{
+}
+.column {
+  float: left;
+  width: 31%;
+  padding: 15px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+body {
+  color: white;
+}
+
+h1 {
+text-align: center;
+  color: white;
+   font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+     font-size: 35px;
+}
+p {
+  font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+     font-size: 25px;
+}
+h2 {
+text-align: center;
+color: white;
+font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+     font-size: 35px;
+}
+p {
+font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+     font-size: 25px;
+}
+
+h3 {
+text-align: center;
+color: white;
+font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+     font-size: 35px;
+}
+p {
+font-family: "Arial", Arial, Helvetica, sans-serif;
+     font-size: 25px;
+}
+
+a {
+Color: white;
+}
+
