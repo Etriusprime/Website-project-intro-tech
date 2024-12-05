@@ -85,5 +85,5 @@ relic and inspiration to them. His current whereabout are unclear, but some say 
                 Your browser does not support the audio tag.
             </audio>
         </section>
-<a href="index.html">homepage</a>
+<li><a href="index.html">homepage</a><li>
 </html>
